@@ -11,7 +11,6 @@ This skill ensures your documentation, commits, and communication remain accessi
 * **Jargon Detection**: Automatically scans your responses and code comments for capitalized abbreviations.
 * **Enforced Definitions**: Prompts the agent to define an acronym upon its first use in a session.
 * **Inclusivity Focus**: Refines outgoing text to be more readable for external stakeholders and new team members.
-* **ASU Alignment**: Tailored for the communication standards used by the [Arizona State University](https://github.com/asuwebdesign) web design community.
 
 ## 🚀 Installation
 
